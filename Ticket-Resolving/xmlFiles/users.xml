@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--password is equal to username-->
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<user type="admin" name="mounica">
+		<userID>1</userID>
+		<userName>Hacks</userName>
+		<firstName>Virgin</firstName>
+		<lastName>Boyz</lastName>
+		<userMailID>Virgins_boyz@gmail.com</userMailID>
+		<userPhone>(416)-875-0039</userPhone>
+		<authentication>
+			<encryptedPW>2d584d81af9df5624db4e51d856706e5</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+		<user type="admin">
+		<userID>2</userID>
+		<userName>Mohit</userName>
+		<firstName>Mohit</firstName>
+		<lastName>Jangra</lastName>
+		<userMailID>Mohit.jangra@gmail.com</userMailID>
+		<userPhone>(346)-724-9854</userPhone>
+		<authentication>
+			<encryptedPW>17893f3471ba48b1e9fb3abebf05c921</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="admin">
+		<userID>3</userID>
+		<userName>Rishabh</userName>
+		<firstName>Rishabh</firstName>
+		<lastName>Jain</lastName>
+		<userMailID>Rishabh.jain@gmail.com</userMailID>
+		<userPhone>(856)-789-2563</userPhone>
+		<authentication>
+			<encryptedPW>b7334f4f277da38e9c5e64dc1ebdf9cf</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="client">
+		<userID>4</userID>
+		<userName>Ayush</userName>
+		<firstName>Ayush</firstName>
+		<lastName>Saxena0</lastName>
+		<userMailID>Ayush.blma@gmail.com</userMailID>
+		<userPhone>(452)-845-9652</userPhone>
+		<authentication>
+			<encryptedPW>4f2ab18bad71ce4688227ad95a2b6bc2</encryptedPW> <!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="client">
+		<userID>5</userID>
+		<userName>Paras</userName>
+		<firstName>Paras</firstName>
+		<lastName>Chauhan</lastName>
+		<userMailID>parasg26@gmail.com</userMailID>
+		<userPhone>(685)-156-7851</userPhone>
+		<authentication>
+			<encryptedPW>35e9e0c7e290ea16559588c0343ecd91</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="client">
+		<userID>6</userID>
+		<userName>Mehul</userName>
+		<firstName>Mehul</firstName>
+		<lastName>Sharma</lastName>
+		<userMailID>Mehul.sharma@gmail.com</userMailID>
+		<userPhone>(651)-754-9624</userPhone>
+		<authentication>
+			<encryptedPW>0a457f6b5118f3fcfc43d6700c6b2a8b</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="client">
+		<userID>7</userID>
+		<userName>Khushi</userName>
+		<firstName>Khushi</firstName>
+		<lastName>Saharan</lastName>
+		<userMailID>Khushi.saharan@gmail.com</userMailID>
+		<userPhone>(516)-745-6985</userPhone>
+		<authentication>
+			<encryptedPW>570d8ce263fcc39b662aed954efbbb0a</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="client">
+		<userID>8</userID>
+		<userName>Sakshi</userName>
+		<firstName>Sakshi</firstName>
+		<lastName>Maheshwari</lastName>
+		<userMailID>Sakshi.maheshwari@gmail.com</userMailID>
+		<userPhone>(651)-854-9637</userPhone>
+		<authentication>
+			<encryptedPW>e67b4ca0b1c509937e0affe401d87f63</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+	<user type="client">
+		<userID>9</userID>
+		<userName>Loveleen</userName>
+		<firstName>Loveleen</firstName>
+		<lastName>Goyal</lastName>
+		<userMailID>loveleen.goyal@gmail.com</userMailID>
+		<userPhone>(987)-654-9874</userPhone>
+		<authentication>
+			<encryptedPW>41d2ab987541a6ed4cd11e1cae7c49d2</encryptedPW><!--password is equal to username-->
+		</authentication>
+	</user>
+</users>
